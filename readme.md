@@ -59,4 +59,4 @@ x = v1 . 100km / v1 + v2 = 110km/h . 100km / 110km/h + 70,6 km/h
 
 x = 60,9 km
 
-![Alt text](../teste.jpg)
+![Alt text](https://github.com/AlexJjunio/teste-desenvolvedor/blob/main/assets/teste.jpg)
